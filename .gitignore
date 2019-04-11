@@ -1,0 +1,11 @@
+.DS_store
+
+/build
+/dist
+
+
+/django_pywebview/staticfiles
+/django_pywebview/mediafiles
+
+/django_pywebview/access.log
+/django_pywebview/PyBrowse.log

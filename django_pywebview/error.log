@@ -1,0 +1,180 @@
+[11/Apr/2019:11:01:55] ENGINE Bus STARTING
+[11/Apr/2019:11:01:55] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:01:55] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:01:55] ENGINE Bus STARTED
+[11/Apr/2019:11:02:25] ENGINE Bus STOPPING
+[11/Apr/2019:11:02:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:02:25] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:02:25] ENGINE Bus STOPPED
+[11/Apr/2019:11:02:25] ENGINE Bus STOPPING
+[11/Apr/2019:11:02:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:02:25] ENGINE No thread running for None.
+[11/Apr/2019:11:02:25] ENGINE Bus STOPPED
+[11/Apr/2019:11:02:25] ENGINE Bus EXITING
+[11/Apr/2019:11:02:25] ENGINE Bus EXITED
+[11/Apr/2019:11:07:01] ENGINE Bus STARTING
+[11/Apr/2019:11:07:01] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:07:01] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:07:01] ENGINE Bus STARTED
+[11/Apr/2019:11:07:48] ENGINE Restarting because /Users/ngahu/Projects/Personal-Projects/django_pywebview/django_pywebview/django_pywebview/settings.py changed.
+[11/Apr/2019:11:07:48] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:07:48] ENGINE Bus STOPPING
+[11/Apr/2019:11:07:48] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:07:48] ENGINE Bus STOPPED
+[11/Apr/2019:11:07:48] ENGINE Bus EXITING
+[11/Apr/2019:11:07:48] ENGINE Bus EXITED
+[11/Apr/2019:11:07:55] ENGINE Bus STOPPING
+[11/Apr/2019:11:07:55] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:07:55] ENGINE No thread running for None.
+[11/Apr/2019:11:07:55] ENGINE Bus STOPPED
+[11/Apr/2019:11:07:55] ENGINE Bus STOPPING
+[11/Apr/2019:11:07:55] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:07:55] ENGINE No thread running for None.
+[11/Apr/2019:11:07:55] ENGINE Bus STOPPED
+[11/Apr/2019:11:07:55] ENGINE Bus EXITING
+[11/Apr/2019:11:07:55] ENGINE Bus EXITED
+[11/Apr/2019:11:08:02] ENGINE Bus STARTING
+[11/Apr/2019:11:08:02] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:08:02] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:08:02] ENGINE Bus STARTED
+[11/Apr/2019:11:09:30] ENGINE Restarting because /Users/ngahu/Projects/Personal-Projects/django_pywebview/django_pywebview/main/urls.py changed.
+[11/Apr/2019:11:09:30] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:09:30] ENGINE Bus STOPPING
+[11/Apr/2019:11:09:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:09:30] ENGINE Bus STOPPED
+[11/Apr/2019:11:09:30] ENGINE Bus EXITING
+[11/Apr/2019:11:09:30] ENGINE Bus EXITED
+[11/Apr/2019:11:10:13] ENGINE Bus STOPPING
+[11/Apr/2019:11:10:13] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:10:13] ENGINE No thread running for None.
+[11/Apr/2019:11:10:13] ENGINE Bus STOPPED
+[11/Apr/2019:11:10:13] ENGINE Bus STOPPING
+[11/Apr/2019:11:10:13] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:10:13] ENGINE No thread running for None.
+[11/Apr/2019:11:10:13] ENGINE Bus STOPPED
+[11/Apr/2019:11:10:13] ENGINE Bus EXITING
+[11/Apr/2019:11:10:13] ENGINE Bus EXITED
+[11/Apr/2019:11:10:23] ENGINE Bus STARTING
+[11/Apr/2019:11:10:23] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:10:23] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:10:23] ENGINE Bus STARTED
+[11/Apr/2019:11:10:31] ENGINE Bus STOPPING
+[11/Apr/2019:11:10:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:10:34] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:10:34] ENGINE Bus STOPPED
+[11/Apr/2019:11:10:34] ENGINE Bus STOPPING
+[11/Apr/2019:11:10:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:10:34] ENGINE No thread running for None.
+[11/Apr/2019:11:10:34] ENGINE Bus STOPPED
+[11/Apr/2019:11:10:34] ENGINE Bus EXITING
+[11/Apr/2019:11:10:34] ENGINE Bus EXITED
+[11/Apr/2019:11:13:04] ENGINE Bus STARTING
+[11/Apr/2019:11:13:04] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:13:04] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:13:04] ENGINE Bus STARTED
+[11/Apr/2019:11:13:33] ENGINE Bus STOPPING
+[11/Apr/2019:11:13:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:13:33] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:13:33] ENGINE Bus STOPPED
+[11/Apr/2019:11:13:33] ENGINE Bus STOPPING
+[11/Apr/2019:11:13:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:13:33] ENGINE No thread running for None.
+[11/Apr/2019:11:13:33] ENGINE Bus STOPPED
+[11/Apr/2019:11:13:33] ENGINE Bus EXITING
+[11/Apr/2019:11:13:33] ENGINE Bus EXITED
+[11/Apr/2019:11:41:02] ENGINE Bus STARTING
+[11/Apr/2019:11:41:02] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:41:02] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:41:02] ENGINE Bus STARTED
+[11/Apr/2019:11:41:14] ENGINE Bus STOPPING
+[11/Apr/2019:11:41:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:41:14] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:41:14] ENGINE Bus STOPPED
+[11/Apr/2019:11:41:14] ENGINE Bus STOPPING
+[11/Apr/2019:11:41:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:41:14] ENGINE No thread running for None.
+[11/Apr/2019:11:41:14] ENGINE Bus STOPPED
+[11/Apr/2019:11:41:14] ENGINE Bus EXITING
+[11/Apr/2019:11:41:14] ENGINE Bus EXITED
+[11/Apr/2019:11:41:45] ENGINE Bus STARTING
+[11/Apr/2019:11:41:45] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:41:45] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:41:45] ENGINE Bus STARTED
+[11/Apr/2019:11:42:12] ENGINE Bus STOPPING
+[11/Apr/2019:11:42:12] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:42:12] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:42:12] ENGINE Bus STOPPED
+[11/Apr/2019:11:42:12] ENGINE Bus STOPPING
+[11/Apr/2019:11:42:12] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:42:12] ENGINE No thread running for None.
+[11/Apr/2019:11:42:12] ENGINE Bus STOPPED
+[11/Apr/2019:11:42:12] ENGINE Bus EXITING
+[11/Apr/2019:11:42:12] ENGINE Bus EXITED
+[11/Apr/2019:11:43:04] ENGINE Bus STARTING
+[11/Apr/2019:11:43:04] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:43:04] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:43:04] ENGINE Bus STARTED
+[11/Apr/2019:11:43:06] ENGINE Bus STOPPING
+[11/Apr/2019:11:43:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:43:11] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:43:11] ENGINE Bus STOPPED
+[11/Apr/2019:11:43:11] ENGINE Bus STOPPING
+[11/Apr/2019:11:43:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:43:11] ENGINE No thread running for None.
+[11/Apr/2019:11:43:11] ENGINE Bus STOPPED
+[11/Apr/2019:11:43:11] ENGINE Bus EXITING
+[11/Apr/2019:11:43:11] ENGINE Bus EXITED
+[11/Apr/2019:11:43:26] ENGINE Bus STARTING
+[11/Apr/2019:11:43:26] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:43:26] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:43:26] ENGINE Bus STARTED
+[11/Apr/2019:11:43:29] ENGINE Bus STOPPING
+[11/Apr/2019:11:43:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:43:34] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:43:34] ENGINE Bus STOPPED
+[11/Apr/2019:11:43:34] ENGINE Bus STOPPING
+[11/Apr/2019:11:43:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) already shut down
+[11/Apr/2019:11:43:34] ENGINE No thread running for None.
+[11/Apr/2019:11:43:34] ENGINE Bus STOPPED
+[11/Apr/2019:11:43:34] ENGINE Bus EXITING
+[11/Apr/2019:11:43:34] ENGINE Bus EXITED
+[11/Apr/2019:11:49:11] ENGINE Bus STARTING
+[11/Apr/2019:11:49:11] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:49:11] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:49:11] ENGINE Bus STARTED
+[11/Apr/2019:11:49:36] ENGINE Bus STOPPING
+[11/Apr/2019:11:49:36] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:49:36] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:49:36] ENGINE Bus STOPPED
+[11/Apr/2019:11:49:36] ENGINE Bus EXITING
+[11/Apr/2019:11:49:36] ENGINE Bus EXITED
+[11/Apr/2019:11:49:43] ENGINE Bus STARTING
+[11/Apr/2019:11:49:43] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:49:43] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:49:43] ENGINE Bus STARTED
+[11/Apr/2019:11:49:46] ENGINE Bus STOPPING
+[11/Apr/2019:11:49:51] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:49:51] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:49:51] ENGINE Bus STOPPED
+[11/Apr/2019:11:49:51] ENGINE Bus EXITING
+[11/Apr/2019:11:49:51] ENGINE Bus EXITED
+[11/Apr/2019:11:50:17] ENGINE Bus STARTING
+[11/Apr/2019:11:50:17] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:50:17] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:50:17] ENGINE Bus STARTED
+[11/Apr/2019:11:50:37] ENGINE Bus STOPPING
+[11/Apr/2019:11:50:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:50:42] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:50:42] ENGINE Bus STOPPED
+[11/Apr/2019:11:50:42] ENGINE Bus EXITING
+[11/Apr/2019:11:50:42] ENGINE Bus EXITED
+[11/Apr/2019:11:56:35] ENGINE Bus STARTING
+[11/Apr/2019:11:56:35] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:11:56:35] ENGINE Serving on http://0.0.0.0:9090
+[11/Apr/2019:11:56:35] ENGINE Bus STARTED
+[11/Apr/2019:11:56:45] ENGINE Bus STOPPING
+[11/Apr/2019:11:56:45] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 9090)) shut down
+[11/Apr/2019:11:56:45] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:11:56:45] ENGINE Bus STOPPED
+[11/Apr/2019:11:56:45] ENGINE Bus EXITING
+[11/Apr/2019:11:56:45] ENGINE Bus EXITED

@@ -1,0 +1,20 @@
+[11/Apr/2019:12:54:21] ENGINE Bus STARTING
+[11/Apr/2019:12:54:21] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:12:54:21] ENGINE Serving on http://127.0.0.1:9090
+[11/Apr/2019:12:54:21] ENGINE Bus STARTED
+[11/Apr/2019:12:56:49] ENGINE Bus STOPPING
+[11/Apr/2019:12:56:49] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[11/Apr/2019:12:56:49] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:12:56:49] ENGINE Bus STOPPED
+[11/Apr/2019:12:56:49] ENGINE Bus EXITING
+[11/Apr/2019:12:56:49] ENGINE Bus EXITED
+[11/Apr/2019:13:44:56] ENGINE Bus STARTING
+[11/Apr/2019:13:44:56] ENGINE Started monitor thread 'Autoreloader'.
+[11/Apr/2019:13:44:56] ENGINE Serving on http://127.0.0.1:9090
+[11/Apr/2019:13:44:56] ENGINE Bus STARTED
+[11/Apr/2019:13:46:52] ENGINE Bus STOPPING
+[11/Apr/2019:13:46:54] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[11/Apr/2019:13:46:54] ENGINE Stopped thread 'Autoreloader'.
+[11/Apr/2019:13:46:54] ENGINE Bus STOPPED
+[11/Apr/2019:13:46:54] ENGINE Bus EXITING
+[11/Apr/2019:13:46:54] ENGINE Bus EXITED
