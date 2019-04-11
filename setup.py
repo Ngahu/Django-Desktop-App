@@ -20,11 +20,11 @@ OPTIONS = {'argv_emulation': True,
            'includes': ['six', 'packaging', 'packaging.version',
                         'packaging.specifiers', 'packaging.requirements'],
            'plist': {
-                'CFBundleIdentifier': "com.moosystems.pybrowse",
+                'CFBundleIdentifier': "Desktop App",
                 'CFBundleName': "PyBrowse",
                 'CFBundleVersion': '1001',
                 'CFBundleShortVersionString': '1.0',
-               'NSHumanReadableCopyright': 'Copyright 2016 moosystems'
+               'NSHumanReadableCopyright': 'Copyright 2019 Ngahu'
             }}
 
 setup(

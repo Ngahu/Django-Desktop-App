@@ -34,11 +34,11 @@ OPTIONS = {'argv_emulation': False,
                         'packaging.specifiers', 'packaging.requirements',
                         'paste', 'requests'],
            'plist': {
-               'CFBundleIdentifier': "com.moosystems.pybrowse",
+               'CFBundleIdentifier': "Desktop app",
                'CFBundleName': "PyBrowse",
                'CFBundleVersion': '1001',
                'CFBundleShortVersionString': '1.0',
-               'NSHumanReadableCopyright': 'Copyright 2016 moosystems'}
+               'NSHumanReadableCopyright': 'Copyright 2019 Ngahu'}
            }
 
 setup(
